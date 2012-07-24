@@ -1,9 +1,10 @@
-package org.theatticus.sandbox.romannumbers;
+package org.theatticus.sandbox.kata.romannumbers;
 
 import java.security.InvalidParameterException;
 import java.util.HashMap;
 import java.util.Map;
 
+//TODO make this with TDD next time :)
 public class RomanNumberConverter {
 
 	private static final int ONE_DECIMAL = 1;

@@ -1,4 +1,4 @@
-package org.theatticus.sandbox.kata;
+package org.theatticus.sandbox.kata.bankocr;
 
 import java.security.InvalidParameterException;
 

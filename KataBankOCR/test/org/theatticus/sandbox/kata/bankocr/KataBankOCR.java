@@ -1,10 +1,10 @@
-package org.theatticus.kata;
+package org.theatticus.sandbox.kata.bankocr;
 
 import org.junit.Assert;
 import org.junit.Test;
-import org.theatticus.sandbox.kata.OCRParser;
-import org.theatticus.sandbox.kata.OCRSplitter;
-import org.theatticus.sandbox.kata.Splitter;
+import org.theatticus.sandbox.kata.bankocr.OCRParser;
+import org.theatticus.sandbox.kata.bankocr.OCRSplitter;
+import org.theatticus.sandbox.kata.bankocr.Splitter;
 
 
 public class KataBankOCR {
